@@ -199,7 +199,7 @@ margin: auto;
 /* explore section start */
 
 .explore-main{
-    background-image: url(../images/see.jpeg);
+    background-image: url(./see.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
